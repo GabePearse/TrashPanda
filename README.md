@@ -15,4 +15,4 @@ DISCORD_TOKEN = $discord_token
 
 Where $discord_token is the token to the bot you are going to run the application.
 
-After this you should be all ready to run the application! If you need anymore assistance just message me on discord: `EvilStatZ#9761` or email me anytime at `gabe@pearse.name`!
+After this you should be all ready to run the application! If you need anymore assistance just message me on discord: `EvilStatZ` or email me anytime at `gabe@pearse.name`!
