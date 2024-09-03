@@ -1,5 +1,5 @@
 # TrashPanda
-TrashPanda is a discord bot made to automatically clean your discord channels.
+TrashPanda is a discord bot made to automatically clear old messages in your discord channels.
 
 To install the dependencies needed to run this bot you can:
 
